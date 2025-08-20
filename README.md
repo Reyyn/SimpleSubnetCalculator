@@ -1,6 +1,8 @@
 # SimpleSubnetCalculator
 Simple Subnet Calculator
-        Usage: subnet.py [IP/CIDR] [IP]
+```
+Usage:
+        subnet.py [IP/CIDR] [IP]
 
 Parameters
         [IP/CIDR]:       Enter the Network address in CIDR notation.
@@ -8,3 +10,4 @@ Parameters
 
 Options
         -h               Display this usage statement.
+```
